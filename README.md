@@ -23,7 +23,17 @@ This is the **frontend** of the Secure File Storage System — a lightweight fil
 
 ###  Start Frontend 
 
+````
+git clone https://github.com/Divyanshi1598/Frontend-Secure-File-Storage-System.git
+
+````
+````
 cd client
 npm install
+````
+
+
+````
 npm run dev
+````
 # Client will run on http://localhost:3000
